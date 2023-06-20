@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<font face="Times New Roman">Times New Roman</font>
 
 I am a third-year PhD student at [PURL](https://www.purlkcl.org/), supervised by Dr. [Wenfeng Xia](https://scholar.google.com/citations?user=bLvnwOAAAAAJ&hl=en) and Prof. [Tom Vercauteren](https://scholar.google.com/citations?user=zduEJkcAAAAJ&hl=en), Department of Biomedical Enigneering and Imaging Sciences, King's College London, UK. My PhD focuses on improving low-fluence based photoacoustic (PA) imaging for minimally invasive procedures. Low-fluence based (specifically Light-emitting-diodes (LEDs) based) PA imaging has shown great potentials in various [pre-clinical and clinical applidations](https://www.mdpi.com/1424-8220/20/21/6173), but it suffers from suboptimal signal-to-noise ratios due to low output energy. I am working on further improving LED-based PA imaging in pursuit of high image fidelity for guiding interventional surgeris such as nerve blocks. 
 
