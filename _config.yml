@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mengjie Shi"
 title_separator          : "-"
 name                     : &name "Mengjie Shi"
-description              : &description "PhD student at King's College London"
+description              : &description "Postdoc/Research Associate at Imperial College London"
 url                      : https://mengjieshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MengjieSHI/mengjieshi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mengjie Shi"
   avatar           : "ms_photo.png"
-  bio              : "PhD student at King's College London."
+  bio              : "Postdoc/Research Associate at Imperial College London."
   location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "mengjie.shi@kcl.ac.uk"
+  email            : "ms1219@ic.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Mengjie-Shi-4"
   uri              :
   bitbucket        :
