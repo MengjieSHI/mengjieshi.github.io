@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mengjie Shi"
+title                    : "Dr Mengjie Shi"
 title_separator          : "-"
 name                     : &name "Mengjie Shi"
 description              : &description "Postdoc/Research Associate at Imperial College London"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mengjie Shi"
+  name             : "Dr Mengjie Shi"
   avatar           : "ms_photo.png"
   bio              : "Postdoc/Research Associate at Imperial College London."
   location         : "London, UK"
-  employer         :
+  employer         :  
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=tMoMEjoAAAAJ"
   email            : "ms1219@ic.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Mengjie-Shi-4"
   uri              :
