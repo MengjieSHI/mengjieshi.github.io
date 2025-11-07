@@ -16,7 +16,7 @@ I am a postdoc/research associate at Imperial College London, <a href="https://u
 </p>
 
 <p style="text-align: justify; font-size:16px;">
-I did my PhD in biophotonics at King's College London, <a href="https://ulislab.com/" target="_blank">PURL</a> group. I developed image enhancement and quantification algorithms to improve LED-based photoacoustic imaging, aiming to make this technique more practical and reliable for biomedical applications.
+I did my PhD in biophotonics at King's College London, <a href="https://www.purlkcl.org/" target="_blank">PURL</a> group. I developed image enhancement and quantification algorithms to improve LED-based photoacoustic imaging, aiming to make this technique more practical and reliable for biomedical applications.
 </p>
 
 <p style="text-align: justify; font-size:16px;">
