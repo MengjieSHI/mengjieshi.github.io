@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:16px;">
-I am a postdoc/research associate at Imperial College London, ULIS <ULIS href="[https://example.com](https://ulislab.com/)" target="_blank">hyperlink</ULIS> group. My research focuses on ultrasound blood flow imaging in human brain. 
+I am a postdoc/research associate at Imperial College London, <a href="[https://ulislab.com/]" target="_blank">ULIS</a> group. My research focuses on ultrasound blood flow imaging in human brain. 
 </p>
 
 <p style="font-size:16px;">
